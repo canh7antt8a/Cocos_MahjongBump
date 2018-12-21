@@ -1,0 +1,92 @@
+[
+    {
+        "bid": 1,
+        "mid": 1,
+        "levels": 100,
+        "stars": 100,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "1-100 levels",
+        "title_cn": "1-100关"
+    },
+    {
+        "bid": 1,
+        "mid": 2,
+        "levels": 100,
+        "stars": 100,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "101-200 levels",
+        "title_cn": "101-200关"
+    },
+    {
+        "bid": 1,
+        "mid": 3,
+        "levels": 100,
+        "stars": 100,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "201-300 levels",
+        "title_cn": "201-300关"
+    },
+    {
+        "bid": 1,
+        "mid": 4,
+        "levels": 100,
+        "stars": 100,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "301-400 levels",
+        "title_cn": "301-400关"
+    },
+    {
+        "bid": 1,
+        "mid": 5,
+        "levels": 100,
+        "stars": 100,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "401-500 levels",
+        "title_cn": "401-500关"
+    },
+    {
+        "bid": 1,
+        "mid": 6,
+        "levels": 100,
+        "stars": 100,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "501-600 levels",
+        "title_cn": "501-600关"
+    },
+    {
+        "bid": 1,
+        "mid": 7,
+        "levels": 100,
+        "stars": 100,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "601-700 levels",
+        "title_cn": "601-700关"
+    },
+    {
+        "bid": 1,
+        "mid": 8,
+        "levels": 100,
+        "stars": 100,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "701-800 levels",
+        "title_cn": "701-800关"
+    },
+    {
+        "bid": 1,
+        "mid": 9,
+        "levels": 25,
+        "stars": 25,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "801-825 levels",
+        "title_cn": "801-825关"
+    }
+]

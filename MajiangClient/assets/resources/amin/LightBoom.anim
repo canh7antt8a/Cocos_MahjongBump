@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "LightBoom",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.27,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "22f97a89-87c6-43af-b4d9-10df9a167117"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "4191b847-0792-494c-849b-4434b8f86304"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "588f033a-3cbc-443b-8d5a-668b71c60c6e"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "b7cb936f-e2e3-4fb9-9d2f-0d79f7bd0458"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "4435fcd1-75f3-4508-b58b-09cd8429e817"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": null
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.05,
+          "value": 255
+        },
+        {
+          "frame": 0.1,
+          "value": 200
+        },
+        {
+          "frame": 0.15,
+          "value": 180
+        },
+        {
+          "frame": 0.2,
+          "value": 160
+        }
+      ]
+    }
+  },
+  "events": []
+}

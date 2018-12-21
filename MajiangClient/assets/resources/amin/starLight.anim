@@ -1,0 +1,105 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "starLight",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 45,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 8.9
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 91.3
+        },
+        {
+          "frame": 0.6888888888888889,
+          "value": 35.3
+        },
+        {
+          "frame": 1.3111111111111111,
+          "value": 112.8
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 15.3
+        },
+        {
+          "frame": 2,
+          "value": 108.5
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 2,
+          "value": 1080
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0
+        },
+        {
+          "frame": 0.6888888888888889,
+          "value": 255
+        },
+        {
+          "frame": 1.3111111111111111,
+          "value": 0
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 255
+        },
+        {
+          "frame": 2,
+          "value": 0
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": -30
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": -30
+        },
+        {
+          "frame": 0.6888888888888889,
+          "value": 0
+        },
+        {
+          "frame": 1.3111111111111111,
+          "value": 0
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 15
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.044444444444444446,
+      "func": "",
+      "params": []
+    }
+  ]
+}
